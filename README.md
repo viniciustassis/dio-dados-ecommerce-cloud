@@ -1,4 +1,4 @@
-![azure-webapp](https://github.com/user-attachments/assets/2300d1c6-2e1f-414a-bc51-fb19d986b5e2)# ☁️ Armazenando Dados de um E-commerce na Cloud com Azure
+# ☁️ Armazenando Dados de um E-commerce na Cloud com Azure
 
 ## 🧾 Descrição do Projeto
 
