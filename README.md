@@ -1,4 +1,4 @@
-# ☁️ Armazenando Dados de um E-commerce na Cloud com Azure
+![azure-webapp](https://github.com/user-attachments/assets/2300d1c6-2e1f-414a-bc51-fb19d986b5e2)# ☁️ Armazenando Dados de um E-commerce na Cloud com Azure
 
 ## 🧾 Descrição do Projeto
 
@@ -40,9 +40,10 @@ A arquitetura proposta está focada em escalabilidade, segurança e separação 
 ## 🖼️ Prints do Projeto
 
 ### Web App no Azure
+![Blob Storage](./prints/azure-blob-storage.png)
+![Key Vault](./prints/azure-key-vault.png)
+![Azure SQL](./prints/azure-sql-db.png)
 ![Web App no Azure](./prints/azure-webapp.png)
-
-> Simulação do App Service em execução com o nome `ecommerce-web-app-1234`.
 
 ---
 
@@ -64,9 +65,11 @@ Durante a construção deste projeto, aprendi:
 📁 ecommerce-cloud-azure/
 ├── README.md
 ├── prints/
+│   └── azure-blob-storage.png
+│   └── azure-key-vault.png
+│   └── azure-sql-db.png
 │   └── azure-webapp.png
-└── infraestrutura/
-    └── app-service-template.bicep (opcional)
+
 ```
 
 ---
