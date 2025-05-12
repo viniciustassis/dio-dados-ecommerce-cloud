@@ -62,10 +62,7 @@ Durante a construção deste projeto, aprendi:
 📁 ecommerce-cloud-azure/
 ├── README.md
 ├── prints/
-│   └── azure-blob-storage.png
-│   └── azure-key-vault.png
-│   └── azure-sql-db.png
-│   └── azure-webapp.png
+│   └── ecommerce.png
 
 ```
 
