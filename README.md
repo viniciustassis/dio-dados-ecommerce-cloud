@@ -40,10 +40,7 @@ A arquitetura proposta está focada em escalabilidade, segurança e separação 
 ## 🖼️ Prints do Projeto
 
 ### Web App no Azure
-![Blob Storage](./prints/azure-blob-storage.png)
-![Key Vault](./prints/azure-key-vault.png)
-![Azure SQL](./prints/azure-sql-db.png)
-![Web App no Azure](./prints/azure-webapp.png)
+![Web App no Azure](./prints/ecommerce.png)
 
 ---
 
